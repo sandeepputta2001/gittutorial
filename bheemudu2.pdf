@@ -1,0 +1,9 @@
+git restore  --staged <file name >
+git rm --cached <file name >
+git log 
+touch <filename>
+echo> filename
+del filename
+dir 
+dir/a
+git 

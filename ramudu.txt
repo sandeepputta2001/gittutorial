@@ -1,0 +1,10 @@
+mkdir r
+cd r
+touch r1.js
+touch r2.txt r3.pdf
+git add .
+git status 
+echo .> g1.pdf
+git add .
+git status 
+git commit -m "adding all the files in the working repo to the git repo "
